@@ -1,0 +1,14 @@
+*, *::after, *::before{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+
+	font-family: monospace;
+}
+
+body{
+	height: 100vh;
+
+	background-image: url('../img/3d-abstract-wave-pattern-background.jpg');
+	background-size: cover;
+}
